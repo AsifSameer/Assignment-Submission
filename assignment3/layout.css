@@ -1,0 +1,48 @@
+* {
+    margin: 0px;
+    padding: 0px;
+
+}
+
+
+
+.parent
+{
+    height: 300px;
+    width: 100%;
+    background: gray;
+    /* padding-top: 50px;
+    padding-bottom: 50px; */
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.else
+{
+    height: 200px;
+    width: 15%;
+    background: red;
+    /* display: inline-block;
+    margin-left: 4%; */
+    
+}
+
+
+.parenttwo
+{
+    height: 300px;
+    width: 100%;
+    background: black;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+.elset
+{
+    height: 200px;
+    width: 15%;
+    background:gray;
+}
